@@ -121,11 +121,11 @@ a {
 
 .highlight {
     /* background-color: #0A0826; */
-    /* display: flex; */
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    /* align-items: center;
-    justify-content: space-between; */
+    display: flex;
+    /* display: grid;
+    grid-template-columns: repeat(2, 1fr); */
+    align-items: center;
+    justify-content: space-between;
 
 }
 
