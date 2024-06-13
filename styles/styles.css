@@ -234,7 +234,7 @@ a {
 
     .highlight {
         width: 100%;
-        grid-template-columns: repeat(1, 1fr);
+        flex-direction: column;
         margin: 0;
         padding: 0;
 
@@ -288,13 +288,13 @@ a {
     }
 
 
-    .highlight {
+    /* .highlight {
         width: 100%;
-        grid-template-columns: repeat(2, 1fr);
+        flex-direction: column;
         margin: 0;
         padding: 0;
         align-items: center;
-    }
+    } */
 
     .highlight .highlight-details {
         width: 70%;
