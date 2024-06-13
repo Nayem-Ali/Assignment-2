@@ -53,12 +53,12 @@ a {
 
 }
 
-.poster:hover img{
+.poster:hover img {
     transform: rotate(360deg);
     transition: transform 2s ease-in-out 0.5s;
 }
 
-.poster:hover .poster-data{
+.poster:hover .poster-data {
     transform: scale(1.1);
     transition: transform 2s ease-in-out 0.5s;
 }
@@ -84,7 +84,7 @@ a {
     grid-column-gap: 30px;
     grid-row-gap: 27px;
     justify-items: center;
-        align-items: center;
+    align-items: center;
 }
 
 .player {
@@ -306,5 +306,5 @@ a {
         /* height: 340px; */
         width: 90%;
     }
-    
+
 }
